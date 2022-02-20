@@ -1,0 +1,3 @@
+INSERT INTO `courier_service`.`courier_company` (`company_code`, `company_address`, `company_contact`, `company_email`, `company_name`) VALUES ('FEDEX', 'Colombo 07', '0112258989', 'fedexcourier@gmail.com', 'Fedex (pvt) Ltd');
+INSERT INTO `courier_service`.`courier_company` (`company_code`, `company_address`, `company_contact`, `company_email`, `company_name`) VALUES ('PICKME', 'Nugegoda', '0112254789', 'package@pickme.lk', 'Pick-me');
+INSERT INTO `courier_service`.`courier_company` (`company_code`, `company_address`, `company_contact`, `company_email`, `company_name`) VALUES ('UBER', 'Bambalapitiya', '0112251223', 'package@uber.com', 'Uber');
